@@ -5,6 +5,7 @@ export default function Home() {
       <p>Şura Karaali Test</p>
       <p>DENEME</p>
       <p>header</p>
+      <p>simos deneme 123</p>
     </div>
   );
 }
