@@ -4,6 +4,7 @@ export default function Home() {
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem nam rem vero quam, commodi natus consequuntur pariatur. Pariatur commodi itaque soluta, culpa hic possimus, sequi quas molestias tempora quia accusantium.</p>
       <p>Şura Karaali Test</p>
       <p>DENEME</p>
+      <p>header</p>
     </div>
   );
 }
